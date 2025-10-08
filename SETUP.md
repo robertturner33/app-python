@@ -14,5 +14,7 @@ You will need to:
 You can run the application using the command:
 
 ```bash
+export FLASK_APP=api
+export FLASK_ENV=development
 flask run
 ```
